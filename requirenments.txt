@@ -1,4 +1,4 @@
-scipy
-sklearn
-scikit-image
 opencv-python
+keras
+tensorflow
+h5py

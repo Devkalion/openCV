@@ -2,3 +2,5 @@
 trgt/
 .idea/
 .vscode/
+src/model.h5
+src/mnist_model.json
